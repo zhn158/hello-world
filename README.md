@@ -9,3 +9,5 @@ $$
   1 & a_n & a_n^2 & \cdots & a_n^n  \\
   \end{pmatrix}
 $$
+
+>检查提交
